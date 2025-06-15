@@ -1,0 +1,23 @@
+Exercício: Sistema de Cadastro de Contas Bancárias com Tratamento de Exceções
+
+Você deve criar um sistema simples de contas bancárias. O sistema deve permitir:
+
+Criar contas bancárias com nome do titular e saldo inicial.
+
+Realizar depósitos e saques.
+
+Regras:
+
+Não é permitido criar uma conta com saldo inicial negativo. Se isso acontecer, deve ser lançada uma exceção personalizada.
+
+Não é permitido realizar saques que deixem o saldo da conta negativo. Caso isso ocorra, outra exceção personalizada deve ser lançada.
+
+O sistema deve tratar essas exceções de forma apropriada e exibir mensagens claras para o usuário.
+
+Requisitos:
+
+Crie uma classe ContaBancaria com os atributos necessários.
+
+Crie pelo menos duas exceções personalizadas (ex: SaldoInsuficienteException, SaldoInicialInvalidoException).
+
+Faça um método principal (main) que teste as funcionalidades, forçando a ocorrência e o tratamento das exceções.
