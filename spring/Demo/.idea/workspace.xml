@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a174a34a-9397-4802-975e-2387c03d0c0b" name="Changes" comment="" />
+    <list default="true" id="a174a34a-9397-4802-975e-2387c03d0c0b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +41,7 @@
   "keyToString": {
     "Application.DemoApplication.executor": "Run",
     "Gradle.Build Demo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -93,7 +96,8 @@
       <option name="presentableId" value="Default" />
       <updated>1753128878254</updated>
       <workItem from="1753128879507" duration="114000" />
-      <workItem from="1753129074523" duration="4101000" />
+      <workItem from="1753129074523" duration="4178000" />
+      <workItem from="1753226984048" duration="221000" />
     </task>
     <servers />
   </component>
